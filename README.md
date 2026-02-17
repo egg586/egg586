@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Ethan!
+
+## About Me
+Aspiring actuary interested in statistics, economics, and finance seeking to apply analytical skills to real-world decisions. Pursuing a B.S. in Actuarial Science at Brigham Young University.
+
+## Projects
+-BYU Statistics Case Study Competition 2025
+
 
 <!--
 **egg586/egg586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
