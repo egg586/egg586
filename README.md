@@ -2,7 +2,9 @@
 
 ## About Me
 Student / Actuary
+
 Interested in data analytics in healthcare
+
 Learning: R, SQL, Python
 
 ## Projects
