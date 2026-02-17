@@ -4,7 +4,7 @@
 Aspiring actuary interested in statistics, economics, and finance seeking to apply analytical skills to real-world decisions. Pursuing a B.S. in Actuarial Science at Brigham Young University.
 
 ## Projects
--BYU Statistics Case Study Competition 2025
+Winner of BYU Statistics Case Study Competition 2025
 
 
 <!--
