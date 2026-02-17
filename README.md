@@ -1,7 +1,9 @@
 ## Hi, I'm Ethan!
 
 ## About Me
-Aspiring actuary interested in statistics, economics, and finance seeking to apply analytical skills to real-world decisions. Pursuing a B.S. in Actuarial Science at Brigham Young University.
+Student / Actuary
+Interested in data analytics in healthcare
+Learning: R, SQL, Python
 
 ## Projects
 Winner of BYU Statistics Case Study Competition 2025
